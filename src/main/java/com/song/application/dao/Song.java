@@ -12,7 +12,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
 /**
- * @author M1028349
+
  *This is the entity class which Hibernate will automatically translate into a table.
  */
 @Entity
