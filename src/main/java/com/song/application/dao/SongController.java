@@ -17,10 +17,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author M1028349
- *
- */
+
 @RestController
 @RequestMapping(path = "/song")
 public class SongController {
